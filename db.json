@@ -19,9 +19,10 @@
       "companyId": "2"
     },
     {
-      "firstName": "Andra",
-      "age": 33,
-      "id": "f_VaNSw"
+      "firstName": "Markus",
+      "age": 34,
+      "id": "f_VaNSw",
+      "company": "1"
     }
   ],
   "companies": [
